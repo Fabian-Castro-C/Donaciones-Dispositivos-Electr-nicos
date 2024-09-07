@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "tipo": "Celular",
+    "nombre": "Samsung Galaxy S9",
+    "estado": "Funciona perfecto",
+    "aniosUso": 2,
+    "fotos": ["images/devices/galaxy-s9.jpg", "images/devices/galaxy-s9-2.jpg"],
+    "nombreDonante": "Juan Pérez",
+    "emailDonante": "juan.perez@example.com",
+    "telefonoDonante": "912345678",
+    "regionDonante": "Región Metropolitana",
+    "comunaDonante": "Providencia",
+    "comentarios": [
+      {
+        "nombre": "Laura Fernández",
+        "fecha": "01/09/2024",
+        "contenido": "El dispositivo está en muy buen estado. Recomiendo este donante."
+      },
+      {
+        "nombre": "Pedro Soto",
+        "fecha": "02/09/2024",
+        "contenido": "Funcionó muy bien durante el tiempo que lo usé. Gracias por la donación."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tipo": "Notebook",
+    "nombre": "Lenovo ThinkPad",
+    "estado": "Funciona a medias",
+    "aniosUso": 3,
+    "fotos": ["images/devices/thinkpad.jpg"],
+    "nombreDonante": "María González",
+    "emailDonante": "maria.gonzalez@example.com",
+    "telefonoDonante": "987654321",
+    "regionDonante": "Región Metropolitana",
+    "comunaDonante": "Las Condes",
+    "comentarios": [
+      {
+        "nombre": "Javier Morales",
+        "fecha": "03/09/2024",
+        "contenido": "La notebook tiene algunos problemas, pero aún es funcional."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tipo": "Tablet",
+    "nombre": "iPad 2018",
+    "estado": "No funciona",
+    "aniosUso": 4,
+    "fotos": ["images/devices/ipad-2018.jpg"],
+    "nombreDonante": "Carlos López",
+    "emailDonante": "carlos.lopez@example.com",
+    "telefonoDonante": "923456789",
+    "regionDonante": "Región Metropolitana",
+    "comunaDonante": "Vitacura",
+    "comentarios": []
+  },
+  {
+    "id": 4,
+    "tipo": "Consola",
+    "nombre": "PlayStation 4",
+    "estado": "Funciona perfecto",
+    "aniosUso": 1,
+    "fotos": ["images/devices/ps4.jpg"],
+    "nombreDonante": "Ana Martínez",
+    "emailDonante": "ana.martinez@example.com",
+    "telefonoDonante": "934567890",
+    "regionDonante": "Región Metropolitana",
+    "comunaDonante": "Santiago Centro",
+    "comentarios": [
+      {
+        "nombre": "Felipe Ríos",
+        "fecha": "04/09/2024",
+        "contenido": "La consola está en excelente estado. Muy recomendable."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tipo": "Mouse",
+    "nombre": "Logitech G502",
+    "estado": "Funciona perfecto",
+    "aniosUso": 5,
+    "fotos": ["images/devices/logitech-g502.jpg"],
+    "nombreDonante": "Luis Ramírez",
+    "emailDonante": "luis.ramirez@example.com",
+    "telefonoDonante": "945678901",
+    "regionDonante": "Región Metropolitana",
+    "comunaDonante": "Ñuñoa",
+    "comentarios": []
+  }
+]

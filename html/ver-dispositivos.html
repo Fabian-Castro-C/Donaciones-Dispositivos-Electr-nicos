@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ver Dispositivos</title>
+  <link rel="stylesheet" href="../css/ver-dispositivos.css">
+</head>
+<body>
+  <header>
+    <h1>Donaciones de Dispositivos Electrónicos</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="agregar-donacion.html">Agregar Donación</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <main>
+      <section>
+        <h2>Listado de Dispositivos Donados</h2>
+        <table id="deviceTable">
+          <thead>
+            <tr>
+              <th>Tipo</th>
+              <th>Nombre del Dispositivo</th>
+              <th>Estado</th>
+              <th>Comuna</th>
+              <th>Fotos</th>
+            </tr>
+          </thead>
+          <tbody id="deviceTableBody">
+            <!-- Aquí se insertarán las filas dinámicamente -->
+          </tbody>
+        </table>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Donaciones de Dispositivos Electrónicos</p>
+  </footer>
+
+  <script src="../js/viewDevices.js"></script>
+</body>
+</html>
