@@ -4,6 +4,8 @@
 
 El proyecto consiste en una aplicación web para gestionar donaciones de dispositivos electrónicos. La aplicación permite a los usuarios agregar dispositivos para donar, ver una lista de los dispositivos en donación y consultar información detallada sobre cada uno, incluyendo comentarios. Este sistema está diseñado utilizando HTML5, CSS3 y JavaScript para el manejo de formularios y validaciones en el frontend, sin requerir lógica del lado del servidor ni almacenamiento de datos persistente.
 
+**Autor:** Fabián Castro Contreras
+
 ## Estructura del Proyecto
 
 El proyecto se compone de las siguientes páginas y funcionalidades:
